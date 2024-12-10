@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Python, MySqL, ML, HTML5, CS3 
 - 💞️ I’m looking to collaborate on ... Data Analisys
-- 📫 How to reach me ... https://www.linkedin.com/in/max-enoc-moreno-293a3915b/
+- 📫 How to reach me ... https://www.linkedin.com/in/max-moreno-293a3915b/
 - 😄 Pronouns: ...he/him
  
 
