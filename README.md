@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MENM-HRRY
+- 👋 Hi, I’m Max Moreno   -  @MENM-HRRY
 - 👀 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Python, MySqL, ML, HTML5, CS3 
 - 💞️ I’m looking to collaborate on ... Data Analisys
