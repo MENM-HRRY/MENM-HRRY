@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Moreno   -  @MENM-HRRY
 - 👀 I’m interested in ... Machine Learning
-- 🌱 I’m currently learning ... Python, MySqL, ML, HTML5, CS3 
+- 🌱 I’m currently learning ... Python, MySqL, ML, HTML5, CS3,Spring Boot,React  
 - 💞️ I’m looking to collaborate on ... Data Analisys
 - 📫 How to reach me ... https://www.linkedin.com/in/max-moreno-293a3915b/
 - 😄 Pronouns: ...he/him
